@@ -23,6 +23,23 @@ The project covers:
 - Microsoft 365, Entra ID and Intune troubleshooting
 - Hybrid identity synchronization troubleshooting
 
+- ## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Lab Environment & Architecture](#lab-environment--architecture)
+- [Part 1 - Tenant Setup & User Administration](#part-1---tenant-setup--user-administration)
+- [Part 2 - Hybrid Identity with Microsoft Entra Connect](#part-2---hybrid-identity-with-microsoft-entra-connect)
+- [Part 3 - Microsoft Intune Device Management & Application Deployment](#part-3---microsoft-intune-device-management--application-deployment)
+- [Part 4 - Microsoft 365, Entra ID & Intune Troubleshooting](#part-4---microsoft-365-entra-id--intune-troubleshooting)
+- [Part 5 - Hybrid Identity Troubleshooting](#part-5---hybrid-identity-troubleshooting-duplicate-entra-id-user--upn-conflict)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Troubleshooting Approach](#troubleshooting-approach)
+- [Key Lessons](#key-lessons)
+- [Project Evidence](#project-evidence)
+- [Video Demonstrations](#video-demonstrations)
+- [Conclusion](#conclusion)
+
 ## Technologies Used
 
 - Microsoft 365 Admin Center
@@ -345,7 +362,7 @@ The process included:
 ---
 
 
-## Part 5 — Hybrid Identity Troubleshooting: Duplicate Entra ID User & UPN Conflict
+## Part 5 - Hybrid Identity Troubleshooting: Duplicate Entra ID User & UPN Conflict
 
 While reviewing the hybrid identity synchronization configured earlier in the project, I discovered that **David Brown had two accounts in Microsoft Entra ID**.
 
@@ -484,11 +501,11 @@ Some of the main lessons from the project were:
 
 The repository contains the complete screenshot evidence captured throughout the project. The README displays selected screenshots, while the folders contain the full implementation and troubleshooting record.
 
-- [Part 1 — Tenant Overview and User Administration](./1%20Tenant%20Overview%20and%20User%20Administration/)
-- [Part 2 — Hybrid Identity & Microsoft Entra Connect](./2%20Hybrid%20Identity%20%26%20Microsoft%20Entra%20Connect/)
-- [Part 3 — Intune Device Management and Application Deployment](./3%20Intune%20Device%20Management%20and%20Application%20Deployment/)
-- [Part 4 — Microsoft 365, Entra ID, Intune Troubleshooting & User Lifecycle](./4%20Microsoft%20365%20%20Entra%20%20Intune%20Troubleshooting%20%26%20User%20Lifecycle/)
-- [Part 5 — Hybrid Identity Troubleshooting: Duplicate Entra ID User](./5%20Hybrid%20Identity%20Troubleshooting%20Duplicate%20Entra%20ID%20User/)
+- [Part 1 - Tenant Overview and User Administration](./1%20Tenant%20Overview%20and%20User%20Administration/)
+- [Part 2 - Hybrid Identity & Microsoft Entra Connect](./2%20Hybrid%20Identity%20%26%20Microsoft%20Entra%20Connect/)
+- [Part 3 - Intune Device Management and Application Deployment](./3%20Intune%20Device%20Management%20and%20Application%20Deployment/)
+- [Part 4 - Microsoft 365, Entra ID, Intune Troubleshooting & User Lifecycle](./4%20Microsoft%20365%20%20Entra%20%20Intune%20Troubleshooting%20%26%20User%20Lifecycle/)
+- [Part 5 - Hybrid Identity Troubleshooting: Duplicate Entra ID User](./5%20Hybrid%20Identity%20Troubleshooting%20Duplicate%20Entra%20ID%20User/)
 
 ## Video Demonstrations
 
